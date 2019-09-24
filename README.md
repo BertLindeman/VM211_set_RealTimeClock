@@ -9,13 +9,20 @@ Download the files / directories e.g. by using the **Clone or Download** button.
 
 Make a directory in your sketch directory:
 
-    update_RTC_clock
+    EarthListener_update_RTC
     
 and copy the download into that directory.
 
 Open:
 
-    update_RTC_clock.ino
+    EarthListener_update_RTC.ino
     
 in the arduino GUI.
+
+The separate sketch files below are used in the main sketch:
+
+    functions.ino
+    setup.ino
+    update_RTC_clock.ino
+    
 
