@@ -1,5 +1,8 @@
 # VM211_set_RealTimeClock
+
 Arduino sketch to set an RTC  in the VM211 EarthListener (The RTC is optional) 
+
+Sketch is based upon Velleman VM211_firmware.
 
 Install:
 Download the files / directories e.g. by using the **Clone or Download** button.
